@@ -1,0 +1,25 @@
+[0.395s] Invoking command in '/home/yestlisanchez/puzzlebot_sim': PYTHONPATH=/home/yestlisanchez/puzzlebot_sim/build/puzzlebot_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yestlisanchez/puzzlebot_sim/install/puzzlebot_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/puzzlebot_sim build --build-base /home/yestlisanchez/puzzlebot_sim/build/puzzlebot_sim/build install --record /home/yestlisanchez/puzzlebot_sim/build/puzzlebot_sim/install.log --single-version-externally-managed install_data
+[0.550s] running egg_info
+[0.550s] writing build/puzzlebot_sim/puzzlebot_sim.egg-info/PKG-INFO
+[0.550s] writing dependency_links to build/puzzlebot_sim/puzzlebot_sim.egg-info/dependency_links.txt
+[0.550s] writing entry points to build/puzzlebot_sim/puzzlebot_sim.egg-info/entry_points.txt
+[0.550s] writing requirements to build/puzzlebot_sim/puzzlebot_sim.egg-info/requires.txt
+[0.551s] writing top-level names to build/puzzlebot_sim/puzzlebot_sim.egg-info/top_level.txt
+[0.552s] reading manifest file 'build/puzzlebot_sim/puzzlebot_sim.egg-info/SOURCES.txt'
+[0.552s] adding license file 'LICENSE'
+[0.552s] writing manifest file 'build/puzzlebot_sim/puzzlebot_sim.egg-info/SOURCES.txt'
+[0.552s] running build
+[0.552s] running build_py
+[0.552s] copying puzzlebot_sim/joint_state_publisher.py -> /home/yestlisanchez/puzzlebot_sim/build/puzzlebot_sim/build/lib/puzzlebot_sim
+[0.552s] running install
+[0.553s] running install_lib
+[0.553s] copying /home/yestlisanchez/puzzlebot_sim/build/puzzlebot_sim/build/lib/puzzlebot_sim/joint_state_publisher.py -> /home/yestlisanchez/puzzlebot_sim/install/puzzlebot_sim/lib/python3.10/site-packages/puzzlebot_sim
+[0.554s] byte-compiling /home/yestlisanchez/puzzlebot_sim/install/puzzlebot_sim/lib/python3.10/site-packages/puzzlebot_sim/joint_state_publisher.py to joint_state_publisher.cpython-310.pyc
+[0.555s] running install_data
+[0.555s] running install_egg_info
+[0.556s] removing '/home/yestlisanchez/puzzlebot_sim/install/puzzlebot_sim/lib/python3.10/site-packages/puzzlebot_sim-0.0.0-py3.10.egg-info' (and everything under it)
+[0.559s] Copying build/puzzlebot_sim/puzzlebot_sim.egg-info to /home/yestlisanchez/puzzlebot_sim/install/puzzlebot_sim/lib/python3.10/site-packages/puzzlebot_sim-0.0.0-py3.10.egg-info
+[0.559s] running install_scripts
+[0.573s] Installing joint_state_publisher script to /home/yestlisanchez/puzzlebot_sim/install/puzzlebot_sim/lib/puzzlebot_sim
+[0.574s] writing list of installed files to '/home/yestlisanchez/puzzlebot_sim/build/puzzlebot_sim/install.log'
+[0.589s] Invoked command in '/home/yestlisanchez/puzzlebot_sim' returned '0': PYTHONPATH=/home/yestlisanchez/puzzlebot_sim/build/puzzlebot_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yestlisanchez/puzzlebot_sim/install/puzzlebot_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/puzzlebot_sim build --build-base /home/yestlisanchez/puzzlebot_sim/build/puzzlebot_sim/build install --record /home/yestlisanchez/puzzlebot_sim/build/puzzlebot_sim/install.log --single-version-externally-managed install_data
